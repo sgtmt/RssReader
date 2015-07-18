@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="jp.ac.jec.cm0134.rssreader.MainActivity"
+    android:background="#FFCC88"
+    tools:ignore="MergeRootFrame" >
+
+    <TextView
+        android:id="@+id/txtNews"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="@string/txtNews" />
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:scrollingCache="false"
+        android:divider="@drawable/line_himo01_s04"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>

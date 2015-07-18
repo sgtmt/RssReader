@@ -1,0 +1,42 @@
+{
+    "cmStudents": {
+        "list": [
+            {
+                "id": "13cm0200",
+                "name": "やまだたろう",
+                "age": 20,
+                "hasMCPC": false,
+                "info": {
+                    "like": "映画鑑賞", 
+                    "food": "ラーメン", 
+                    "game": "パズドラ",
+                    "hp": "http://www.jec.ac.jp"
+                }
+            },
+			{
+                "id": "13cm0134",
+                "name": "たるいたかし",
+                "age": 19,
+                "hasMCPC": false,
+                "info": {
+                    "like": "漫画", 
+                    "food": "肉", 
+                    "game": "スーファミ",
+                    "hp": "http://www.jec.ac.jp"
+                }
+            },
+			{
+                "id": "13cm0114",
+                "name": "くによしりょうすけ",
+                "age": 19,
+                "hasMCPC": true,
+                "info": {
+                    "like": "ドライブ", 
+                    "food": "えびちり", 
+                    "game": "ウイイレ",
+                    "hp": "http://www.jec.ac.jp"
+                }
+            }
+        ]
+    }
+}

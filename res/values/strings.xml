@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RssReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnLoad">Load</string>
+    <string name="txtReult">ここに読み込み結果を表示します</string>
+    <string name="txtNews">Sports News</string>
+
+</resources>
